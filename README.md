@@ -1,2 +1,2 @@
 # JavaScriptProjects
- Some Real Projects Demonstrate In JavaScript
+ There are 20 JavaScript Projects Like HTML, CSS and JavaScript.
