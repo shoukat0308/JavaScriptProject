@@ -12,7 +12,7 @@
 body {
     background-color: rgb(#ff0000, #80770093, #ff99002d);
     font-family: 'open Sans', sans-serif;
-    display: inline;
+    display: inline-table;
     align-self: center;
     justify-items: center; 
     min-height: 100vh;
@@ -21,9 +21,9 @@ body {
 
 .container {
     background-color: rgba(16, 122, 2, 0.89);
-    border-radius: 30px;
+    border-radius: 20px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.8);
-    width: 400px;    
+    width: 400px;
 }
 
 h2 {
@@ -43,7 +43,7 @@ h2 {
 }
 
 .form-control label {
-    color: silver;
+    color: white;
     display: block;
     margin-bottom: 3px;
 }
