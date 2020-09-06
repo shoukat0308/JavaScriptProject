@@ -19,8 +19,8 @@ body {
     border-radius: 20px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.86);
     width: 400px;
-    height: 550px;
-    
+    height: 350;    
+    align-items: center;
 }
 
 h2 {
@@ -91,4 +91,15 @@ form-control.error input {
     padding: 10px;
     margin-top: 20px;
     width: 100%;
+}
+.container {
+    background: rgb(5, 117, 5);
+    color: white;
+    border-radius: 30px;
+    padding: 1em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
 }
