@@ -4,8 +4,7 @@ body {
     background-image: url('space.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 100% 100%;
-    
+    background-size: 100% 100%;    
 }
 
 h1 {
@@ -16,23 +15,23 @@ h1 {
 h2 { 
     color: black;
     text-align: center;
-
-}
-
-body.href {
-    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
 }
 
 ol {
-    text-align: auto;
     margin-top: 2em;
     color: black;
-    size: 10px;
+    size: 15px;
     font-size: 20px;
     text-align: center;
     text-decoration-style: solid;
+    font-weight: bolder;    
 }
 
 p {
     text-align: center;
+    font-size: 1.1em;
+    font-family: initial;
+
 }
