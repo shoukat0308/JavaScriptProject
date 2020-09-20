@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body {
+    background-image: url('space.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 { 
+    color: black;
+    text-align: center;
+
+}
+
+body.href {
+    text-align: center;
+}
+
+ol {
+    text-align: auto;
+    margin-top: 2em;
+    color: black;
+    size: 10px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration-style: solid;
+}
+
+p {
+    text-align: center;
+}
